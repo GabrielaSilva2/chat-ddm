@@ -175,5 +175,5 @@ O Firebase Realtime Database é usado pelo Mexagex para armazenar informações 
  - Ícones e Elementos Visuais: O aplicativo utiliza ícones e elementos visuais para melhorar a usabilidade e tornar as ações do usuário mais claras.
 
 
- # Integrantes: EYSHILA NEUBERT BASSETTO e GABRIELA SILVA DE ARAUJO
+ # Integrantes: GABRIELA SILVA DE ARAUJO
 
